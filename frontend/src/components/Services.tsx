@@ -1,65 +1,65 @@
 export default function Services() {
   return (
-    <section class="service">
-      <div class="container">
-        <ul class="service-list">
-          <li class="service-item">
-            <div class="service-item-icon">
+    <section className="service">
+      <div className="container">
+        <ul className="service-list">
+          <li className="service-item">
+            <div className="service-item-icon">
               <img
                 src="./assets/images/service-icon-1.svg"
                 alt="Service icon"
               />
             </div>
 
-            <div class="service-content">
-              <p class="service-item-title">Free Shipping</p>
+            <div className="service-content">
+              <p className="service-item-title">Free Shipping</p>
 
-              <p class="service-item-text">On All Order Over $599</p>
+              <p className="service-item-text">On All Order Over $599</p>
             </div>
           </li>
 
-          <li class="service-item">
-            <div class="service-item-icon">
+          <li className="service-item">
+            <div className="service-item-icon">
               <img
                 src="./assets/images/service-icon-2.svg"
                 alt="Service icon"
               />
             </div>
 
-            <div class="service-content">
-              <p class="service-item-title">Easy Returns</p>
+            <div className="service-content">
+              <p className="service-item-title">Easy Returns</p>
 
-              <p class="service-item-text">30 Day Returns Policy</p>
+              <p className="service-item-text">30 Day Returns Policy</p>
             </div>
           </li>
 
-          <li class="service-item">
-            <div class="service-item-icon">
+          <li className="service-item">
+            <div className="service-item-icon">
               <img
                 src="./assets/images/service-icon-3.svg"
                 alt="Service icon"
               />
             </div>
 
-            <div class="service-content">
-              <p class="service-item-title">Secure Payment</p>
+            <div className="service-content">
+              <p className="service-item-title">Secure Payment</p>
 
-              <p class="service-item-text">100% Secure Gaurantee</p>
+              <p className="service-item-text">100% Secure Gaurantee</p>
             </div>
           </li>
 
-          <li class="service-item">
-            <div class="service-item-icon">
+          <li className="service-item">
+            <div className="service-item-icon">
               <img
                 src="./assets/images/service-icon-4.svg"
                 alt="Service icon"
               />
             </div>
 
-            <div class="service-content">
-              <p class="service-item-title">Special Support</p>
+            <div className="service-content">
+              <p className="service-item-title">Special Support</p>
 
-              <p class="service-item-text">24/7 Dedicated Support</p>
+              <p className="service-item-text">24/7 Dedicated Support</p>
             </div>
           </li>
         </ul>
